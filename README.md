@@ -22,7 +22,7 @@ In this homework assignment, you will help Harold accomplish the following tasks
 
 * [sfo_neighborhoods_census_data.csv](Starter_Code/Data/sfo_neighborhoods_census_data.csv)
 * [neighborhoods_coordinates.csv](Starter_Code/Data/neighborhoods_coordinates.csv)
-* [Rental Analysis Starter Jupyter Notebook](rental_analysis (2).ipynb)
+* [Rental Analysis Starter Jupyter Notebook](rental_analysis(2).ipynb)
 * [Dashboard Starter Jupyter Notebook](dashboard.ipynb)
 
 ## Instructions
